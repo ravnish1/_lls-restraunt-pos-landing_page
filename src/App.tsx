@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Layout, Database, BarChart3, ChevronRight, Star, Quote, ArrowRight, ShieldCheck, Zap } from 'lucide-react';
+import { Layout, Database, BarChart3, ChevronRight, Star, Quote, ShieldCheck, Zap } from 'lucide-react';
 import jsPDF from 'jspdf';
 import html2canvas from 'html2canvas';
 
